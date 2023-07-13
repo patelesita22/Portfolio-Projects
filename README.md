@@ -1,2 +1,3 @@
 # SQL_project
-Covid data sql project
+Covid Data SQL and Tableau Project
+Austin Housing Data Cleaning Project

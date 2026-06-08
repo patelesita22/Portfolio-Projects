@@ -1,9 +1,12 @@
 # Portfolio_Project
 Covid Data SQL and Tableau Project,
 
-Apocalypse Bulk grocery Prices Dashboard in Power BI, 
+Apocalypse Bulk grocery Prices Dashboard in Power BI,
+
 Austin Housing Data Cleaning Project SQL,
+
 Movie Data Correlation with Python
+
 
 # BELOW IS THE POWER BI PROJECT
 # Grocery Prices During Apocalypse Food Prep
